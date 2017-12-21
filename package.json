@@ -1,0 +1,24 @@
+{
+  "name": "postcss-px2rem2",
+  "description": "Postcss version of px2rem2",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zanjs/postcss-px2rem2",
+  "author": "Julian <anlasheng@gmail.com>",
+  "dependencies": {
+    "postcss": "^5.0.0",
+    "px2rem2": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "autoprefixer": "^6.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "keywords": [
+    "px2rem",
+    "postcss-plugin"
+  ],
+  "license": "MIT"
+}
