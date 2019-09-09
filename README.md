@@ -1,5 +1,7 @@
 # postcss-px2rem
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/postcss-px2rem2.svg)](https://greenkeeper.io/)
+
 This is a [postcss](https://www.npmjs.com/package/postcss) plugin of [px2rem](https://www.npmjs.com/package/px2rem).
 
 [![NPM version][npm-image]][npm-url]
