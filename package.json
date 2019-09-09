@@ -5,12 +5,12 @@
   "homepage": "https://github.com/zanjs/postcss-px2rem2",
   "author": "Julian <anlasheng@gmail.com>",
   "dependencies": {
-    "postcss": "^5.0.0",
+    "postcss": "^7.0.18",
     "px2rem2": "0.0.6"
   },
   "devDependencies": {
-    "autoprefixer": "^6.1.0",
-    "mocha": "^2.1.0"
+    "autoprefixer": "^9.6.1",
+    "mocha": "^6.2.0"
   },
   "scripts": {
     "test": "mocha"
